@@ -18,10 +18,7 @@ import javax.swing.table.DefaultTableModel;
 import negocio.Disciplina;
 import negocio.Membro;
 
-/**
- *
- * @author massilva
- */
+
 public class GerenciarMembro extends javax.swing.JFrame {
 
     DefaultTableModel modelo;
